@@ -6,7 +6,7 @@
 
 The main objective of today's lab is to use python tools to understand and illustrate how a sample mean behaves for various sample sizes.
 
-**Objective**:  Using the massive flights dataset from [Lab 6](link), extract the column called AIR_TIME and then investigate the behavior of sample means for samples from this column of various sizes.  
+**Objective**:  Using the massive flights dataset from [Lab 6](https://github.com/DS200-SP2024-Hunter/Week06-DueFeb23), extract the column called AIR_TIME and then investigate the behavior of sample means for samples from this column of various sizes.  
 
 **Your assignment** is as follows:
 
