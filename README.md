@@ -34,6 +34,6 @@ airtimes = Table().with_column('AirTime', airtimes) # Put the modified array bac
 
 8.  Finally, make sure that your Jupyter notebook only includes code and text that is relevant to this assignment.  For instance, if you have been completing this assignment by editing the original code from Chapter 4 or Lab 6, make sure to delete the material that isn't relevant before turning in your work.
 
-**New: Here is a [short jupyter notebook]() that shows how you can create a pdf document from a .ipynb file directly in your google drive space. Then you can download it to turn in.**
+**New: Here is a [short jupyter notebook](https://github.com/DS200-SP2024-Hunter/Lab09-DueMar27/blob/main/convert_pdf.ipynb) that shows how you can create a pdf document from a .ipynb file directly in your google drive space. Then you can download it to turn in.**
 
 When you've completed this, you should select "Print" from the File menu, then save to pdf using this option.  The pdf file that you create in this way is the file that you should upload to Canvas for grading.  We have found that if you can select the "A3" paper size from the advanced options, this seems to solve the problems that are sometimes encountered in this step.
